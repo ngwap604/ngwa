@@ -1,1 +1,1 @@
-# ngwa
+# ngwa=P4O10 
